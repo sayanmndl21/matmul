@@ -3,4 +3,4 @@
 make
 insmod matmul_kernel.ko
 dmesg | tail
-#./matmul_user
+./matmul_user
